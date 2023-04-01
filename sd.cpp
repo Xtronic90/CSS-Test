@@ -25,7 +25,10 @@ int main() {
         {
             cout<< "hello";
 
-            cout<<" second commit";
+            // cout<<" second commit";
+
+
+         //   changes urgent brnch me rh kr change kiya h
         }
     return 0;
 }
