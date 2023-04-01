@@ -24,6 +24,8 @@ int main() {
         while (t--)
         {
             cout<< "hello";
+
+            cout<<" second commit";
         }
     return 0;
 }
